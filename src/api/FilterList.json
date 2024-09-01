@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Price",
+    "key": "priceCategory",
+    "ranges": [
+      "₹ 0 TO ₹ 499",
+      "₹ 500 TO ₹ 999",
+      "₹ 1000 TO ₹ 1499",
+      "₹ 1500 TO ₹ 1999",
+      "₹ 2000 TO ₹ 2499",
+      "₹ 3000 AND ₹ ABOVE"
+    ]
+  },
+  {
+    "title": "Flower Type",
+    "key": "type",
+    "ranges": [
+      "Roses",
+      "Mixed Flowers",
+      "Carnations",
+      "Lillies",
+      "Orchids",
+      "Exotic Flowers",
+      "Gerbaras",
+      "Daisies",
+      "Others"
+    ]
+  },
+  {
+    "title": "Arrangement",
+    "key": "arrangement",
+    "ranges": ["Vase", "Bouquet", "Unique", "Box", "Sleeves", "Basket"]
+  },
+  {
+    "title": "Color",
+    "key": "color",
+    "ranges": [
+      "Others",
+      "Red",
+      "Pink",
+      "White",
+      "Yellow",
+      "Purple",
+      "Blue",
+      "Orange"
+    ]
+  }
+]

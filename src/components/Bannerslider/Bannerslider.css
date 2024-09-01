@@ -1,0 +1,21 @@
+.Bannerslider .splide__arrow:disabled {
+  display: none !important;
+}
+
+.Bannerslider .splide__arrow {
+  font-size: 2rem !important;
+  border-radius: 11px !important;
+  opacity: 1 !important;
+  width: 5rem !important;
+  height: 5rem !important;
+  background-color: white !important;
+}
+
+.Bannerslider .splide__arrow--prev {
+  left: -1rem !important;
+  top: 2rem !important;
+}
+.Bannerslider .splide__arrow--next {
+  right: -1rem !important;
+  top: 2rem !important;
+}

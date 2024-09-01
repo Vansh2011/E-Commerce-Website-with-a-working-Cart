@@ -1,0 +1,67 @@
+[
+  {
+    "productId": "EXP76472",
+    "productTypeId": "AGGREGATED",
+    "orderItemSeqId": "00001",
+    "productCatalogId": "india",
+    "baseProductId": "EXP80376",
+    "isVariant": true,
+    "variantType": "Bouquet",
+    "productImage": "https://www.fnp.com/images/pr/s/v20240209101758/mystical-unicorn-personalized-night-lamp_1.jpg",
+    "productName": "Enchanting Orchids Flower Bouquet",
+    "isAddonsConfigured": true,
+    "shippingMethodName": "Express Delivery",
+    "dateForReport": "26 Jul 2024",
+    "deliveryDate": "Fri, Jul 26",
+    "isMultiOrderProduct": false,
+    "deliveryLocation": "110001, New Delhi, Delhi",
+    "timeSlotChangeMsg": null,
+    "showPincodeOrCity": true,
+    "isPersonalizationSaved": false,
+    "pincode": "110001",
+    "isIntlCatalog": false,
+    "primaryProductCategoryId": "EXPRESS",
+    "quantity": 1,
+    "supplierPartyId": "FRAN-000112",
+    "newPrice": 799.0,
+    "originalPrice": "₹1000",
+    "discount": 20,
+    "addon": "N",
+    "isProductPersonalizable": false,
+    "shippingDetails": {
+      "shippingPrice": 19.0,
+      "deliveryTimeSlot": "17:00 - 23:00 Hrs",
+      "deliveryLocation": "110001, New Delhi, Delhi",
+      "isShippingPriceAvailable": true,
+      "deliveryTimeSlotId": "10025",
+      "shippingMethodName": "Express Delivery",
+      "shippingMethodId": "EARLIEST_DELIVERY",
+      "deliveryDate": {
+        "date": 26,
+        "month": "Jul",
+        "fullDeliveryDate": "July 26",
+        "day": "Fri"
+      },
+      "is_timedelivery_show": true,
+      "subTotal": 799,
+      "pricingSummary": {
+        "orderTotalMRP": 799.0,
+        "totalPromoDiscountAmount": 0,
+        "discountOnMRP": 0.0,
+        "orderSavedAmount": 0.0
+      },
+      "total": 1598,
+      "totalShipping": "19.000000000000000",
+      "additionalPromoAdjustment": [
+        {
+          "promoText": "Convenience Charge",
+          "additionalAmount": 39
+        }
+      ],
+      "donationAmount": 0,
+      "carryBagEligibleFlag": false,
+      "carryBagAmount": 0,
+      "defaultCarryBagFlag": false
+    }
+  }
+]

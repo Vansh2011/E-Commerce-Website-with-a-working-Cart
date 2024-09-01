@@ -1,0 +1,33 @@
+.testimonial .splide__arrow:disabled {
+  visibility: hidden !important;
+}
+
+.testimonial .splide__arrow {
+  background-color: white !important;
+  border: 1px solid #e5e5e5 !important;
+  width: 3rem !important;
+  height: 3rem !important;
+}
+
+.splide__arrow--prev {
+  left: -2em;
+}
+
+.splide__arrow--next {
+  right: -1.5em;
+}
+
+@media (max-width: 360px) {
+  .testimonial .splide__arrow {
+    width: 2rem !important;
+    height: 2rem !important;
+  }
+
+  .splide__arrow--prev {
+    left: 0;
+  }
+
+  .splide__arrow--next {
+    right: 0;
+  }
+}

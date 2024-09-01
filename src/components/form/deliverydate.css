@@ -1,0 +1,9 @@
+/* .react-datepicker__month-container {
+  width: 27rem;
+} */
+
+.react-datepicker__day,
+.react-datepicker__day-name {
+  padding: 1rem;
+  width: 3rem;
+}
